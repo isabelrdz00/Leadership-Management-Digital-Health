@@ -1,4 +1,4 @@
-# Digital Health Leadership Portfolio
+# Digital Health Leadership Projects
 
 ## Overview
 This repository showcases key projects and assignments completed during my academic training in healthcare leadership and management. Each document highlights my analytical skills, project management capabilities, and understanding of complex digital health and policy challenges. These works were developed as part of the **Leadership and Management in Digital Health** course at Algonquin College and demonstrate my qualifications for roles in healthcare consulting and digital health.
