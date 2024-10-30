@@ -1,4 +1,4 @@
-# Digital Health Leadership Projects
+# Leadership & Management Projects
 
 ## Overview
 Each document highlights my analytical skills, project management capabilities, and understanding of complex digital health and policy challenges. These works were developed as part of the **Leadership and Management in Digital Health** course at Algonquin College and demonstrate my qualifications for roles in healthcare consulting and digital health.
